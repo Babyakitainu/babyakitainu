@@ -7,7 +7,7 @@ Contract address:
 Project links and info 
 
 Website link: 
-https://babyakita.io
+https://www.babyakitaofficial.org
 
 Twitter: 
 https://twitter.com/BabyAkitaInu24
@@ -28,6 +28,7 @@ Medium:
 https://medium.com/@babyakitainu_bsc
 
 White paper:
+https://www.babyakitaofficial.org/road-map
 
 Instagram: 
 https://www.instagram.com/babyakitainu24?=09
